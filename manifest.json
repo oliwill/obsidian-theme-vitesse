@@ -1,0 +1,7 @@
+{
+  "name": "Vitesse",
+  "version": "1.0.0",
+  "minAppVersion": "1.0.0",
+  "author": "Ported from antfu/vscode-theme-vitesse",
+  "authorUrl": "https://github.com/antfu/vscode-theme-vitesse"
+}
